@@ -108,11 +108,8 @@ Use this before every crypto transaction:
 
 Additional Resources
 
-Resource| Description
-"Ledger Security Checklist" (https://www.ledger.com/academy/security/ledger-security-checklist)| Comprehensive hardware wallet security guide
-"Trust Wallet Blog" (https://trustwallet.com/blog)| Security tips including clipboard hijacking awareness
-"Revoke.cash" (https://revoke.cash)| Audit and revoke on-chain token approvals
-"MalwareBytes Blog" (https://www.malwarebytes.com/blog)| Up-to-date coverage of crypto-targeting malware
+
+
 
 ---
 
